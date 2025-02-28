@@ -23,4 +23,3 @@ cd train
 python train_multihead_DFS.py
 ```
 
-## Citation
