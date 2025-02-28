@@ -19,7 +19,6 @@ pip install -r requirements.txt
 
 ```bash
 # train the model
-cd train
 python train_multihead_DFS.py
 ```
 
